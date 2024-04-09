@@ -1,6 +1,6 @@
 # Helmet Detection Algorithm
 
-This repository contains code for training and using a helmet detection algorithm using YOLOv7.
+Helmet detection experiment, designed using YOLOv7 object detection model, with bicycle and motorbike helmets training data
 
 ## Dataset
 The dataset used for training the algorithm is not included in this repository. You can use your own dataset or download a helmet detection dataset from https://www.kaggle.com/datasets/andrewmvd/helmet-detection
