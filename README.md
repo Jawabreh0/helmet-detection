@@ -8,8 +8,9 @@ The dataset used for training the model is not included in this repository. You 
 ## Setup
 To set up the environment for running the algorithm, follow these steps:
 
-1. Clone this repository: git clone https://github.com/Jawabreh0/Helmet-Detection.
-
+1. Clone this repository: ```bash
+git clone git@github.com:Jawabreh0/helmet-detection.git
+```
 2. Navigate to the cloned repository: cd Helmet-Detection.
 
 3. Download the YOLOv7 weights: wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt.
