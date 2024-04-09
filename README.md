@@ -13,11 +13,11 @@ git clone git@github.com:Jawabreh0/helmet-detection.git```
 
 2. Navigate to the cloned repository: ```cd helmet-detection```
 
-3. Download the YOLOv7 weights: wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt.
+3. Download the YOLOv7 weights:  ```wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt```
 
-4. Download the YOLOv7x weights: wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt.
+4. Download the YOLOv7x weights: ```wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7x.pt```
 
-5. Install the required packages: pip install -r requirements.txt.
+5. Install the required packages: ```pip install -r requirements.txt```
 
 ## Training
 To train the algorithm, run the following command:
